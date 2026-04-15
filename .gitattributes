@@ -1,1 +1,2 @@
 PrintersConf.printerexport filter=lfs diff=lfs merge=lfs -text
+*.printerExport filter=lfs diff=lfs merge=lfs -text
